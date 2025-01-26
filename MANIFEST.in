@@ -1,0 +1,4 @@
+include commecy/data/*.csv
+include commecy/data/*.txt
+include commecy/commeci.c
+include commecy/data/tests.csv
